@@ -10,15 +10,15 @@ Includes many features such as:
 - Restart game after losing by pressing 'y' or 'n'
 - Persistent high score
 
-To play:
+To play:\n
 In source file directory, type: python snake_game.py
 
-To reset high score:
+To reset high score:\n
 Simply delete 'high_score.txt', or open file and manually change to 0
 
 Attributions:
-gameplay music: https://freesound.org/s/172561/
-eat food sound: https://freesound.org/s/20267/
-game over sound: https://freesound.org/s/76376/
+-gameplay music: https://freesound.org/s/172561/
+-eat food sound: https://freesound.org/s/20267/
+-game over sound: https://freesound.org/s/76376/
 
 PS: My high score is 315
