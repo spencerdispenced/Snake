@@ -1,6 +1,6 @@
 # Snake
 
-Snake game using python and pygame. Move the snake and collect the food to get a high score. Focus on keeping code organized with classes and adhering (mostly) to PEP8 standards.Images showing game running are in Screenshots folder.
+Snake game using python and pygame. Move the snake and collect the food to get a high score. Focus on keeping code organized with classes and adhering (mostly) to PEP8 standards.  Images showing game running are in Screenshots folder.  
 Includes many features such as:
 - Multi colored background
 - Multi colored snake
