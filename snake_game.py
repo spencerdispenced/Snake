@@ -14,8 +14,8 @@ def main():
     clock = pygame.time.Clock()
     s = Settings()
 
-    snake = Snake(s.width, s.height, s.game_display,
-                  s.game_board_color, s.snake_color_1,
+    snake = Snake(s.width, s.height, 
+                  s.game_display, s.snake_color_1,
                   s.snake_color_2, s.border_color)
     food = Food(s.game_display, s.food_color, s.width, s.height)
     gf = Game_Functions(s.game_display, s.width, s.height, snake, food)
