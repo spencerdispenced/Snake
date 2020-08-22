@@ -46,10 +46,7 @@ def main():
         gf.check_wall_collisions()
         food.draw_food()
 
-        clock.tick(snake.speed)  # controls speed of while loop
-
-# TODO
-# High score is 315
+        clock.tick(snake.speed)
 
 
 if __name__ == "__main__":
