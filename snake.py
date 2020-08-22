@@ -4,13 +4,12 @@ import pygame
 
 class Snake:
     """ Create a snake with initial starting position """
-    def __init__(self, x_pos, y_pos, game_display,
-                 game_board_color, snake_color_1,
+    def __init__(self, x_pos, y_pos,
+                 game_display, snake_color_1,
                  snake_color_2, border_color):
         self.x_pos = x_pos
         self.y_pos = y_pos
         self.game_display = game_display
-        self.game_board_color = game_board_color
         self.snake_color_1 = snake_color_1
         self.snake_color_2 = snake_color_2
         self.border_color = border_color
