@@ -22,4 +22,4 @@ gameplay music: https://freesound.org/s/172561/
 eat food sound: https://freesound.org/s/20267/  
 game over sound: https://freesound.org/s/76376/  
 
-PS: My high score is 315
+PS: My high score is 370
